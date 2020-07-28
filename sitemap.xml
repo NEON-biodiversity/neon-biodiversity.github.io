@@ -3,11 +3,182 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/research/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/read-among-species-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/angela-strecker/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/benjamin-baiser/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/body-size/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/john-m.-grady/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jonathan-belmaker/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kalaina-thorne/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katherine-m.-thibault/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lydia-beaudrot/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mao-ning-tuanmu/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/niche/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/phoebe-l.-zarnetske/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/quentin-d.-read/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rodents/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/grady-size-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sydne-record/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/read-tropical-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zarnetske-interplay-2017/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biotic-interactions/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/breeding-bird-survey/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/co-occurrence/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/belmaker-empirical-2015/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/extent/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/grain/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/phoebe-zarnetske/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sara-zonneveld/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/scale/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/species-distribution-models/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/angela-strecker/</loc>
   </url>
   
   <url>
@@ -23,10 +194,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/author/phoebe-zarnetske/</loc>
   </url>
   
@@ -35,23 +202,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
   </url>
   
   <url>
     <loc>/author/sydne-record/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

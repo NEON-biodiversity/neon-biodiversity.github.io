@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>co-occurrence | Macrosystems Biodiversity</title>
+    <link>/tag/co-occurrence/</link>
+      <atom:link href="/tag/co-occurrence/index.xml" rel="self" type="application/rss+xml" />
+    <description>co-occurrence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
+      <title>co-occurrence</title>
+      <link>/tag/co-occurrence/</link>
+    </image>
+    
+    <item>
+      <title>Empirical evidence for the scale dependence of biotic interactions</title>
+      <link>/publication/belmaker-empirical-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/belmaker-empirical-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

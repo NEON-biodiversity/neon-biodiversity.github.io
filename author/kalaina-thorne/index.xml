@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalaina Thorne | Macrosystems Biodiversity</title>
+    <link>/author/kalaina-thorne/</link>
+      <atom:link href="/author/kalaina-thorne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kalaina Thorne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
+      <title>Kalaina Thorne</title>
+      <link>/author/kalaina-thorne/</link>
+    </image>
+    
+    <item>
+      <title>Size, niches, and the latitudinal diversity gradient</title>
+      <link>/publication/grady-size-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/grady-size-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,127 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Macrosystems Biodiversity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
       <title>Macrosystems Biodiversity</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/research/</guid>
+      <description>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-1-hypothesized-drivers-of-intraspecific-trait-variation-itv-and-biodiversity-a-expected-relationships-among-drivers-itv-and-biodiversity-b-drivers-and-their-expected-dominant-spatial-scales-of-influence-within-neon&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/figure1.png&#34; data-caption=&#34;Figure 1. Hypothesized drivers of Intraspecific Trait Variation (ITV) and biodiversity. A) Expected relationships among drivers, ITV, and biodiversity. B) Drivers and their expected dominant spatial scales of influence within NEON.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/figure1.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 1. Hypothesized drivers of Intraspecific Trait Variation (ITV) and biodiversity. A) Expected relationships among drivers, ITV, and biodiversity. B) Drivers and their expected dominant spatial scales of influence within NEON.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;
+&lt;p&gt;Understanding how natural and human-made factors affect geographic patterns of biodiversity is essential for planning conservation efforts, especially in the face of rapid global changes. Geographic patterns of biodiversity are expected to be influenced by a combination of local biological factors, like competition among species, and by regional to continental physical factors, such as climate. However, this expectation has not been evaluated from local to continental scales across diverse species lineages. In addition, natural and human-made disturbances are likely to alter this expectation. We are a group of researchers at Michigan State University, Bryn Mawr College, University of Florida, Western Washington University, the National Ecological Observatory Network (NEON), and SESYNC working to test this idea from local to continental scales.&lt;/p&gt;
+&lt;p&gt;We use the geographic design of NEON across the USA and combine insights from satellite remote sensing and measurements from individual organisms to address three main research questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;How does spatial scale influence intraspecific trait variation (ITV) in organism body size and its relationship with biodiversity across taxa within NEON?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How is disturbance regime explained by different scales of climate, geodiversity and land cover, and past land use across NEON?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How do relationships among climate, geodiversity and land cover, past land use, disturbance regime, and body size ITV explain variation in biodiversity across taxa from local to continental scales?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To address these questions, we are quantifying multiple biological and physical factors affecting biodiversity patterns of small mammals, fish, and ground beetles at nested spatial scales.&lt;/p&gt;
+&lt;h2 id=&#34;what-are-the-outcomes-of-this-research&#34;&gt;What are the outcomes of this research?&lt;/h2&gt;
+&lt;h3 id=&#34;new-publicly-available-data-including&#34;&gt;New, publicly available data including:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Measures of beetle body sizes from NEON sites&lt;/li&gt;
+&lt;li&gt;NEON species diversity at varying spatial and temporal scales&lt;/li&gt;
+&lt;li&gt;30-m resolution geospatial layers of disturbance history and type across the United States&lt;/li&gt;
+&lt;li&gt;Geospatial layers of land use history for each NEON site&lt;/li&gt;
+&lt;li&gt;Geospatial database and associated computational workflow for NEON sites including: disturbance and land use histories, climate, and geodiversity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;teaching-modules-on-data-science-skills-with-neon-data&#34;&gt;Teaching modules on data science skills with NEON data.&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;interactive exhibit for Science on a Sphere to engage the public and increase awareness of ecological observation networks, the biosphere, and environmental change.&lt;/li&gt;
+&lt;li&gt;Collaborators include the MSU Museum, MSU Science Festival, and ICER ACRES REU program.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;advancing-fundamental-understanding&#34;&gt;&lt;em&gt;Advancing fundamental understanding&amp;hellip;&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;This research develops a conceptual framework that describes relationships among intraspecific trait variation (ITV) in body size, biodiversity, and drivers related to disturbance, past land use, and their interactions. This framework will advance basic theory and prediction of spatial biodiversity patterns by linking ITV to drivers of biodiversity across scales.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Among-species overlap in rodent body size distributions predicts species richness along a temperature gradient</title>
+      <link>/publication/read-among-species-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/read-among-species-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size, niches, and the latitudinal diversity gradient</title>
+      <link>/publication/grady-size-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/grady-size-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropical bird species have less variable body sizes</title>
+      <link>/publication/read-tropical-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/read-tropical-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Interplay Between Landscape Structure and Biotic Interactions</title>
+      <link>/publication/zarnetske-interplay-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zarnetske-interplay-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evidence for the scale dependence of biotic interactions</title>
+      <link>/publication/belmaker-empirical-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/belmaker-empirical-2015/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
