@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Macrosystems Biodiversity</title>
+    <link>/projects/</link>
+      <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/projects/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/projects/neon-organisms-and-patterns-of-biodiversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/neon-organisms-and-patterns-of-biodiversity/</guid>
+      <description>&lt;p&gt;NEON Organisms &amp;amp; Patterns of Biodiversity
+List of people mainly involved: Phoebe Zarnetske, Jon Knott, Ben Baiser, Kate Thibault, Sydne Record, Quentin Read&lt;/p&gt;
+&lt;p&gt;GitHub repositories:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/NEON-biodiversity/neonbiodiversity&#34;&gt;https://github.com/NEON-biodiversity/neonbiodiversity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/NEON-biodiversity/rodentee&#34;&gt;https://github.com/NEON-biodiversity/rodentee&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

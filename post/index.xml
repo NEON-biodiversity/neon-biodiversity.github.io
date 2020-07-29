@@ -5,12 +5,89 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 17:34:04 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Ecological Society of America Annual Meeting virtual presentations</title>
+      <link>/post/esa-virtual-presentations/</link>
+      <pubDate>Mon, 27 Jul 2020 17:34:04 -0400</pubDate>
+      <guid>/post/esa-virtual-presentations/</guid>
+      <description>&lt;p&gt;Phoebe Zarnetske and Sydne Record will present at the 2020 ESA session 
+&lt;a href=&#34;https://eco.confex.com/eco/2020/meetingapp.cgi/Session/17301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OOS 8 - Revolutionizing Our Understanding of Scale: How the NEON Network Enables Innovative Research into the Complexities of Ecological Phenomena Across Spatio-Temporal Scales&lt;/a&gt;.  The session’s talks are available online, and a Q&amp;amp;A session is scheduled for August 3, 3-3:30pm US Eastern.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;float-right ml-3&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/esa-virtual-presentations/zarnetske-title-slide_hub5464c353706c624caa8b82daf3928ef_20772_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;/post/esa-virtual-presentations/zarnetske-title-slide_hub5464c353706c624caa8b82daf3928ef_20772_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Zarnetske 2020 ESA Presentation Title Slide&#34; width=&#34;259&#34; height=&#34;145&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Phoebe’s presentation, Local- to continental-scale drivers of biodiversity across NEON will summarize how the team is working to quantify geodiversity and disturbance regime across spatial scales in order to explain patterns of biodiversity across NEON.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;float-left mr-3&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/esa-virtual-presentations/record-title-slide_hu74c1dea0dc4ec58d19ed931e68a12da4_26029_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;/post/esa-virtual-presentations/record-title-slide_hu74c1dea0dc4ec58d19ed931e68a12da4_26029_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;Sydne Record&amp;#39;s 2020 ESA Presentation Title Slide&#34; width=&#34;250&#34; height=&#34;179&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Sydne’s presentation, The importance of ecological memory: Insights from LTER-NEON data synergies will focus on quantifying spatially-explicit land use histories of NEON sites and how these data can elucidate patterns of biodiversity across scales.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Jasper Van doninck will present a poster, Amazonian forest canopy reflectance explains soil properties and understory species distribution and composition, summarizing his research on Amazonian biodiversity and remote sensing at University of Turku.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
