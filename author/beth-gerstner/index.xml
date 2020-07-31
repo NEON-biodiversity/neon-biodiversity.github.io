@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beth Gerstner | Macrosystems Biodiversity</title>
+    <link>/author/beth-gerstner/</link>
+      <atom:link href="/author/beth-gerstner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beth Gerstner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
+      <title>Beth Gerstner</title>
+      <link>/author/beth-gerstner/</link>
+    </image>
+    
+    <item>
+      <title>Does scale matter? A systematic review of incorporating biological realism when predicting changes in species distributions</title>
+      <link>/publication/record-does-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/record-does-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
