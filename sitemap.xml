@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/broader-impacts/</loc>
-    <lastmod>2020-07-29T10:59:03-04:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-27T17:34:04-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ostats-package/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/quentin-read/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/research/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-29T17:34:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/broader-impacts/</loc>
+    <lastmod>2020-07-29T10:59:03-04:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +48,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-07-27T17:34:04-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/phoebe-zarnetske/</loc>
-    <lastmod>2020-07-27T17:34:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-27T17:34:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/research/</loc>
-    <lastmod>2020-07-27T17:34:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-07-27T17:34:04-04:00</lastmod>
   </url>
   

@@ -5,12 +5,24 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Macrosystems Biodiversity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 17:34:04 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 17:34:04 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu3f8b11893f633b7006bae23c33fbbd1c_76797_512x512_fill_lanczos_center_2.png</url>
       <title>Macrosystems Biodiversity</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>OStats Package available</title>
+      <link>/post/ostats-package/</link>
+      <pubDate>Tue, 27 Apr 2021 17:34:04 -0400</pubDate>
+      <guid>/post/ostats-package/</guid>
+      <description>&lt;p&gt;Macrosystems Biodiversity team members Quentin Read, Arya Yue, Isadora Fluck, Benjamin Baiser, John M. Grady, Phoebe L. Zarnetske and Sydne Record have written a new R package &amp;lsquo;Ostats&amp;rsquo;, with version 0.1.0 now available via github.&lt;/p&gt;
+&lt;p&gt;The Ostats package calculates &amp;ldquo;O-statistics,&amp;rdquo; overlap statistics that measure the degree of community-level trait overlap by fitting nonparametric kernel density functions to each species’ trait distribution and calculating their areas of overlap. The team first introduced O-statistics in their 
+&lt;a href=&#34;https://neon-biodiversity.github.io/publication/read-among-species-2018/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2018 analysis of small mammal traits&lt;/a&gt;. This approach helps shed light on how individual-level trait variation determines the structure of communities of organisms and how they might respond to ongoing global changes.&lt;/p&gt;
+&lt;p&gt;Learn more about it in the new documentation website : &lt;a href=&#34;https://neon-biodiversity.github.io/Ostats/&#34;&gt;https://neon-biodiversity.github.io/Ostats/&lt;/a&gt; which includes tutorials on single-variable and multivariate O-statistics or check out the package&amp;rsquo;s source code at &lt;a href=&#34;https://github.com/NEON-biodiversity/Ostats&#34;&gt;https://github.com/NEON-biodiversity/Ostats&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Broader Impacts</title>
