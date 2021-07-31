@@ -14,9 +14,9 @@
     
     <item>
       <title>Macrosystems Explorer Application</title>
-      <link>/msb-explorer/</link>
+      <link>/app/</link>
       <pubDate>Fri, 30 Jul 2021 10:59:03 -0400</pubDate>
-      <guid>/msb-explorer/</guid>
+      <guid>/app/</guid>
       <description>&lt;p&gt;Understanding and predicting biodiversity in space and time is complex. To aid in visualizing the patterns of biodiversity and the drivers of biodiversity at different scales, we created a Shiny App featuring the United States’ 
 &lt;a href=&#34;https://www.neonscience.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Ecological Observatory Network’s&lt;/a&gt; (NEON) biodiversity, derived from NEON organismal data including birds, plants, fish, ground beetles, small mammals, and zooplankton. Also included are background range maps from the 
 &lt;a href=&#34;https://www.iucnredlist.org/resources/spatial-data-download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IUCN&lt;/a&gt; (for small mammals), 
